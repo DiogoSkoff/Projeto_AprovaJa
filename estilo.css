@@ -202,7 +202,7 @@ a.cartao:hover { background-image: linear-gradient(var(--cartao-alto), var(--car
 
 .capa {
   position: relative;
-  min-height: min(90vh, 860px);
+  min-height: min(90vh, 900px);
   border-radius: 0;
   display: flex;
   align-items: center;
